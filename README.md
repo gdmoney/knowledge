@@ -63,10 +63,8 @@ The adage that "work expands so as to fill the time available for its completion
 
 
 **Hype Cycle**  
-A graphical representation of the life cycle stages a technology goes through from conception to maturity and widespread adoption
-
-We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
-
+A graphical representation of the life cycle stages a technology goes through from conception to maturity and widespread adoption.  
+We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.  
 Technology Trigger > Peak of Inflated Expectations > Trough of Disillusionment > Slope of Enlightenment > Plateau of Productivity
 
 
@@ -75,8 +73,7 @@ Never attribute to malice that which is adequately explained by stupidity.
 
 
 **Occam's Razor**  
-Among competing hypotheses, the one with the fewest assumptions should be selected.
-
+Among competing hypotheses, the one with the fewest assumptions should be selected.  
 The simplest explanation is almost always somebody screwed up.
 
 
@@ -85,8 +82,7 @@ Successful companies can put too much emphasis on customers' current needs, and 
 
 
 **Prisoners' Dilemma**  
-2 individuals might not cooperate, even if it appears that it is in their best interests to do so.
-
+2 individuals might not cooperate, even if it appears that it is in their best interests to do so.  
 Two prisoners stole $1 million and are being questioned. If neither snitches, they both walk and get $500k each. If one snitches, he walks and keeps the full $1 million. If both snitch, they get nothing.
 
 
@@ -99,10 +95,8 @@ Justifying increased investment in a decision, based on the cumulative prior inv
 
 
 **Peter Principle**  
-A concept in management theory formulated by Laurence J. Peter in which the selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."
-
-In an organizational structure, assessing an employee's potential for a promotion is often based on their performance in the current job. This eventually results in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their "level of incompetence".
-
+A concept in management theory formulated by Laurence J. Peter in which the selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."  
+In an organizational structure, assessing an employee's potential for a promotion is often based on their performance in the current job. This eventually results in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their "level of incompetence".  
 Peter suggests that "In time, every post tends to be occupied by an employee who is incompetent to carry out its duties" and [the corollary] that "work is accomplished by those employees who have not yet reached their level of incompetence."
 
 
