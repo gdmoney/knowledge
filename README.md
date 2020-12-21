@@ -109,4 +109,4 @@ Peter suggests that "In time, every post tends to be occupied by an employee who
 **Ordering of Adjectives**  
 Opinion > size > age > shape > color > origin > material > purpose > noun
 
-lovely little old rectangular green French silver whittling knife
+Lovely little old rectangular green French silver whittling knife.
