@@ -1,13 +1,13 @@
-- **look** vs **leap** (optimal stopping problem / secretary problem)
+- **Look** vs **Leap** (optimal stopping problem / secretary problem)
 
-- **explore** vs **exploit** (multi-armed bandit problem)
+- **Explore** vs **Exploit** (multi-armed bandit problem)
 
-- **sort** vs **search**
+- **Sort** vs **Search**
 
-- **size** vs **speed** (small and fast or big and slow)
+- **Size** vs **Speed** (small and fast or big and slow)
 
-- **speed** vs **accuracy** (slow and accurate/robust or fast and error prone/fragile)
+- **Speed** vs **Accuracy** (slow and accurate/robust or fast and error prone/fragile)
 
-- **responsiveness** vs **throughput** (cost is delay)
+- **Responsiveness** vs **Throughput** (cost is delay)
 
-- **time and space** vs **certainty**
+- **Time** and **Space** vs **Certainty**
