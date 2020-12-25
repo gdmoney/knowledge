@@ -76,6 +76,7 @@ Never attribute to malice that which is adequately explained by stupidity.
 
 **Occam's Razor**  
 Among competing hypotheses, the one with the fewest assumptions should be selected.  
+
 The simplest explanation is almost always somebody screwed up.
 
 
