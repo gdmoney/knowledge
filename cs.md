@@ -1,4 +1,4 @@
-### Computer Science
+## Computer Science
 
 
 ### CS Tradeoffs
