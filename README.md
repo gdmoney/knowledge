@@ -1,3 +1,10 @@
+**Concepts, ideas, math, science, and philosophy.**
+
+*****
+[science](/science.md) • [CS tradeoffs](/cs-tradeoffs.md) • [math problems](/math-problems.md) • [philosophy](/philosophy.md)
+
+*****
+
 **False Equivalence**  
 Logical fallacy in which an equivalence is drawn between two subjects based on flawed or false reasoning. This fallacy is categorized as a fallacy of inconsistency. AKA "comparing apples and oranges".
 
