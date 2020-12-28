@@ -1,3 +1,39 @@
+### [Resilience & Robustness](https://www.systemsinnovation.io/post/robustness-resilience)
+**Resilience** is the **capacity** of a system to **maintain functionality** in the face of some **alteration** within the system’s **environment**. All systems exist within an environment and are, to a certain extent, dependent upon a specific range of input values from that environment. The system has a set of **parameters** to these inputs within which it can **maintain** its structure and **functionality**, but outside of these critical parameters the system will become **degraded** to a lower level of integration or functionality.
+
+**Resilience** and **robustness** can then be defined by this set of **parameters**. The lower the system’s dependency upon its environment and the **broader** this **range of input** **values** that the system can operate within, the more **robust** it can be said to be.
+
+There are fundamentally just **two** ways - **mechanisms** for resilience - for a system to **maintain** its **integrity** given some perturbation. It can **resist** this change or **adapt** to it.
+
+**Resist** - a tree developing a sturdy trunk to withstand wind
+**Adapt** - a tree bending in response to the wind
+
+
+
+### [Complexity](https://faculty.nps.edu/dlalders/docs/AldersonDoyle-tsmca-July2010.pdf)
+- **Reliability**** - robustness to component failures
+- **Efficiency** - robustness to resource scarcity
+- **Scalability** - robustness to changes to the size and complexity of the system as a whole
+- **Modularity** - robustness to structured component rearrangements
+- **Adaptability** - robustness of lineages to changes on long time scales
+- **Constraints**: component, system, protocol, emergent
+- **Redundancy** - approach to building robustness by including extra components
+
+**Complexity** arises in highly evolved biological and technological systems primarily to provide **mechanism** to create **robustness**.
+
+The connection between advanced technology and biology is neither superficial nor accidental, and much can be learned from comparing and contrasting the organizational principles underlying complex biological and technological systems.
+
+The universal system requirements to be efficient, adaptive, evolvable, and robust to perturbations in their environment and component parts.
+
+A system can have a property that is robust to one set of perturbations and yet fragile for [a different property] and/or perturbation.
+
+Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems arises primarily from design strategies intended to **create robustness**.
+
+Building functional **redundancy** of critical components or subsystems is a popular and well-studied **approach** to **robustness**, but redundancy per se is a limited and blunt **tool**.
+
+
+
+### Science
 Science is not some big immovable mass. It is not infallible. It does not pretend to be able to explain everything or to know everything. Furthermore, there is no such thing as “alternative” science. Science does involve mistakes. But we have yet to find a system of inquiry capable of achieving what it does: move us closer and closer to truths that improve our lives and understanding of the universe.
 
 Good science is science that adheres to the scientific method, a systematic method of inquiry involving making a hypothesis based on existing knowledge, gathering evidence to test if it is correct, then either disproving or building support for the hypothesis. It takes many repetitions of applying this method to build reasonable support for a hypothesis.
