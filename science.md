@@ -5,7 +5,7 @@
 
 There are fundamentally just **two** ways - **mechanisms** for resilience - for a system to **maintain** its **integrity** given some perturbation. It can **resist** this change or **adapt** to it.
 
-**Resist** - a tree developing a sturdy trunk to withstand wind
+**Resist** - a tree developing a sturdy trunk to withstand wind  
 **Adapt** - a tree bending in response to the wind
 
 
