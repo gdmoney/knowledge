@@ -33,7 +33,7 @@ Building functional **redundancy** of critical components or subsystems is a pop
 
 
 
-### Science
+### [Science](https://fs.blog/2020/01/spot-bad-science/)
 Science is not some big immovable mass. It is not infallible. It does not pretend to be able to explain everything or to know everything. Furthermore, there is no such thing as “alternative” science. Science does involve mistakes. But we have yet to find a system of inquiry capable of achieving what it does: move us closer and closer to truths that improve our lives and understanding of the universe.
 
 Good science is science that adheres to the scientific method, a systematic method of inquiry involving making a hypothesis based on existing knowledge, gathering evidence to test if it is correct, then either disproving or building support for the hypothesis. It takes many repetitions of applying this method to build reasonable support for a hypothesis.
