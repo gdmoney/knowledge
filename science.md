@@ -11,7 +11,7 @@ There are fundamentally just **two** ways - **mechanisms** for resilience - for 
 
 
 ### [Complexity](https://faculty.nps.edu/dlalders/docs/AldersonDoyle-tsmca-July2010.pdf)
-- **Reliability**** - robustness to component failures
+- **Reliability** - robustness to component failures
 - **Efficiency** - robustness to resource scarcity
 - **Scalability** - robustness to changes to the size and complexity of the system as a whole
 - **Modularity** - robustness to structured component rearrangements
