@@ -1,3 +1,6 @@
+### Math Problems
+
+
 - If the cold-water faucet can fill the tub in 30 minutes, and the hot-water faucet can fill it in 60 minutes, how long will it take to fill the tub when they're running together?
 
 - If 3 people can paint 3 fences in 3 hours, how long will it take one person to paint one fence?

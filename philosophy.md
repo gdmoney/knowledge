@@ -1,3 +1,6 @@
+### Philosophy
+
+
 ### Consequentialism
 the doctrine that the morality of an action is to be judged solely by its consequences.
 
