@@ -10,11 +10,11 @@ Ethics seeks to resolve questions of human morality by defining concepts such as
 ### Meta-Ethics
 The study of the nature, scope, and meaning of moral judgment. It is one of the three branches of ethics generally studied by philosophers, the others being normative ethics and applied ethics.
 
-While normative ethics addresses such questions as "What should I do?", evaluating specific practices and principles of action, meta-ethics addresses questions such as "What is goodness?" and "How can we tell what is good from what is bad?", seeking to understand the assumptions underlying normative theories.
+While normative ethics addresses such questions as *"What should I do?"*, evaluating specific practices and principles of action, meta-ethics addresses questions such as *"What is goodness?"* and *"How can we tell what is good from what is bad?"*, seeking to understand the assumptions underlying normative theories.
 
 
 ### Normative Ethics
-The study of ethical behaviour, and is the branch of philosophical ethics that investigates the questions that arise regarding how one ought to act, in a moral sense.
+The study of ethical behavior, and is the branch of philosophical ethics that investigates the questions that arise regarding how one ought to act, in a moral sense.
 
 Normative ethics is distinct from meta-ethics in that the former examines standards for the rightness and wrongness of actions, whereas the latter studies the meaning of moral language and the metaphysics of moral facts. Likewise, normative ethics is distinct from applied ethics in that the former is more concerned with 'who ought one be' rather than the ethics of a specific issue (e.g. if, or when, abortion is acceptable).
 
@@ -76,7 +76,7 @@ A thought experiment proposed by philosopher Robert Nozick in order to refute th
 ### Doomsday Argument
 A probabilistic argument that claims to predict the number of future members of the human species given an estimate of the total number of humans born so far. Simply put, it says that supposing that all humans are born in a random order, chances are that any one human is born roughly in the middle.
 
-If Leslie's figure is used, then 60 billion humans have been born so far, so it can be estimated that there is a 95% chance that the total number of humans N will be less than 20 × 60 billion = 1.2 trillion. Assuming that the world population stabilizes at 10 billion and a life expectancy of 80 years, it can be estimated that the remaining 1140 billion humans will be born in 9120 years. Depending on the projection of world population in the forthcoming centuries, estimates may vary, but the main point of the argument is that it is unlikely that more than 1.2 trillion humans will ever live.
+If Leslie's figure is used, then `60 billion` humans have been born so far, so it can be estimated that there is a `95%` chance that the total number of humans N will be less than `20 × 60 billion = 1.2 trillion`. Assuming that the world population stabilizes at `10 billion` and a life expectancy of `80 years`, it can be estimated that the remaining 1140 billion humans will be born in `9,120` years. Depending on the projection of world population in the forthcoming centuries, estimates may vary, but the main point of the argument is that it is unlikely that more than `1.2 trillion` humans will ever live.
 
 
 ### Lindy Effect
