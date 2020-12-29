@@ -30,7 +30,7 @@ The universal system requirements to be efficient, adaptive, evolvable, and robu
 
 A system can have a property that is robust to one set of perturbations and yet fragile for [a different property] and/or perturbation.
 
-Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems arises primarily from design strategies intended to **create robustness**.
+Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems **arises** primarily from design strategies intended **to create robustness**.
 
 Building functional **redundancy** of critical components or subsystems is a popular and well-studied **approach** to **robustness**, but redundancy per se is a limited and blunt **tool**.
 
