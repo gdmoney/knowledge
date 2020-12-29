@@ -10,7 +10,7 @@ Logical fallacy in which an equivalence is drawn between two subjects based on f
 
 
 ### Argument from Nature Fallacy  
-Logical fallacy occuring when someone argues that something is good because it is 'natural' and something else is bad because it is not 'natural'. The flaw with this line of thinking is the fact that whether something is 'natural' or 'unnatural' is completely irrelevant to whether or not it is good. Arsenic is natural. Cyanide is natural. Bubonic plague is natural.
+Logical fallacy occurring when someone argues that something is good because it is 'natural' and something else is bad because it is not 'natural'. The flaw with this line of thinking is the fact that whether something is 'natural' or 'unnatural' is completely irrelevant to whether or not it is good. Arsenic is natural. Cyanide is natural. Bubonic plague is natural.
 
 
 ### Infinite Monkey Theorem  
@@ -47,7 +47,7 @@ A stupid person is a person who causes losses to another person while himself de
 Tendency to continue doing something simply because we have always done it.
 
 
-### Endownment Effect  
+### Endowment Effect  
 Tendency to undervalue things that aren't ours and to overvalue things we already own.
 
 
