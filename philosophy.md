@@ -38,7 +38,7 @@ A family of normative ethical theories that prescribe actions that maximize happ
 
 
 ### Repugnant Conclusion
-Compared with the existence of many people who would all have some very high quality of life, there is some much larger number of people whose existence would be better, even though these people would all have lives that were barely worth living.Footnote
+Compared with the existence of many people who would all have some very high quality of life, there is some much larger number of people whose existence would be better, even though these people would all have lives that were barely worth living.
 
 
 ### Non-Identity Problem
