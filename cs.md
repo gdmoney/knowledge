@@ -1,7 +1,7 @@
 ## Computer Science
 
 
-### CS Tradeoffs
+### CS Trade-offs
 - **Look** vs **Leap**
   - optimal stopping problem / secretary problem
 
