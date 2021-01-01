@@ -2,7 +2,7 @@
 
 
 ### Ethics / Moral Philosophy
-A branch of philosophy that "involves systematizing, defending, and recommending concepts of right and wrong behavior". The field of ethics, along with aesthetics, concerns matters of value, and thus comprises the branch of philosophy called **axiology**.
+A branch of philosophy that *"involves systematizing, defending, and recommending concepts of right and wrong behavior"*. The field of ethics, along with aesthetics, concerns matters of value, and thus comprises the branch of philosophy called **axiology**.
 
 Ethics seeks to resolve questions of human morality by defining concepts such as good and evil, right and wrong, virtue and vice, justice and crime. As a field of intellectual inquiry, moral philosophy also is related to the fields of moral psychology, descriptive ethics, and value theory.
 
@@ -16,7 +16,7 @@ While normative ethics addresses such questions as *"What should I do?"*, evalua
 ### Normative Ethics
 The study of ethical behavior, and is the branch of philosophical ethics that investigates the questions that arise regarding how one ought to act, in a moral sense.
 
-Normative ethics is distinct from meta-ethics in that the former examines standards for the rightness and wrongness of actions, whereas the latter studies the meaning of moral language and the metaphysics of moral facts. Likewise, normative ethics is distinct from applied ethics in that the former is more concerned with 'who ought one be' rather than the ethics of a specific issue (e.g. if, or when, abortion is acceptable).
+Normative ethics is distinct from meta-ethics in that the former examines standards for the rightness and wrongness of actions, whereas the latter studies the meaning of moral language and the metaphysics of moral facts. Likewise, normative ethics is distinct from applied ethics in that the former is more concerned with *"who ought one be"* rather than the ethics of a specific issue (e.g. if, or when, abortion is acceptable).
 
 
 ### Applied Ethics
@@ -34,7 +34,7 @@ The doctrine that the morality of an action is to be judged solely by its conseq
 ### Utilitarianism 
 The doctrine that an action is right insofar as it promotes happiness, and that the greatest happiness of the greatest number should be the guiding principle of conduct.
 
-A family of normative ethical theories that prescribe actions that maximize happiness and well-being for all affected individuals. Although different varieties of utilitarianism admit different characterizations, the basic idea behind all of them is to in some sense maximize utility, which is often defined in terms of well-being or related concepts. For instance, **Jeremy Bentham**, the founder of utilitarianism, described utility as "that property in any object, whereby it tends to produce benefit, advantage, pleasure, good, or happiness...[or] to prevent the happening of mischief, pain, evil, or unhappiness to the party whose interest is considered."
+A family of normative ethical theories that prescribe actions that maximize happiness and well-being for all affected individuals. Although different varieties of utilitarianism admit different characterizations, the basic idea behind all of them is to in some sense maximize utility, which is often defined in terms of well-being or related concepts. For instance, **Jeremy Bentham**, the founder of utilitarianism, described utility as *"that property in any object, whereby it tends to produce benefit, advantage, pleasure, good, or happiness...[or] to prevent the happening of mischief, pain, evil, or unhappiness to the party whose interest is considered."*
 
 
 ### Repugnant Conclusion
@@ -90,7 +90,7 @@ Some scholars have strongly favored reducing existential risk on the grounds tha
 
 
 ### The Great Filter
-The concept originates in **Robin Hanson**'s argument that the failure to find any extraterrestrial civilizations in the observable universe implies the possibility something is wrong with one or more of the arguments from various scientific disciplines that the appearance of advanced intelligent life is probable; this observation is conceptualized in terms of a "Great Filter" which acts to reduce the great number of sites where intelligent life might arise to the tiny number of intelligent species with advanced civilizations actually observed (currently just one: human). This probability threshold, which could lie behind us (in our past) or in front of us (in our future), might work as a barrier to the evolution of intelligent life, or as a high probability of self-destruction. The main counter-intuitive conclusion of this observation is that the easier it was for life to evolve to our stage, the bleaker our future chances probably are.
+The concept originates in **Robin Hanson**'s argument that the failure to find any extraterrestrial civilizations in the observable universe implies the possibility something is wrong with one or more of the arguments from various scientific disciplines that the appearance of advanced intelligent life is probable; this observation is conceptualized in terms of a **"Great Filter"** which acts to reduce the great number of sites where intelligent life might arise to the tiny number of intelligent species with advanced civilizations actually observed (currently just one: human). This probability threshold, which could lie behind us (in our past) or in front of us (in our future), might work as a barrier to the evolution of intelligent life, or as a high probability of self-destruction. The main counter-intuitive conclusion of this observation is that the easier it was for life to evolve to our stage, the bleaker our future chances probably are.
 
 
 ### Dogma
