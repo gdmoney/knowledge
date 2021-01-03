@@ -4,9 +4,9 @@
 ### [Resilience & Robustness](https://www.systemsinnovation.io/post/robustness-resilience)
 **Resilience** is the **capacity** of a system to **maintain functionality** in the face of some **alteration** within the system’s **environment**. All systems exist within an environment and are, to a certain extent, dependent upon a specific range of input values from that environment. The system has a set of **parameters** to these inputs within which it can **maintain** its structure and **functionality**, but outside of these critical parameters the system will become **degraded** to a lower level of integration or functionality.
 
-**Resilience** and **robustness** can then be defined by this set of **parameters**. The lower the system’s dependency upon its environment and the **broader** this **range of input** **values** that the system can operate within, the more **robust** it can be said to be.
+**Resilience** and **robustness** can then be defined by this set of **parameters**. The lower the system’s dependency upon its environment and the **broader this range of input** **values** that the system can operate within, the **more robust** it can be said to be.
 
-There are fundamentally just **two** ways - **mechanisms** for resilience - for a system to **maintain** its **integrity** given some perturbation. It can **resist** this change or **adapt** to it.
+There are fundamentally just **two** ways - **mechanisms** for resilience - for a system to **maintain its integrity** given some perturbation. It can **resist** this change or **adapt** to it.
 
 **Resist** - a tree developing a sturdy trunk to withstand wind  
 **Adapt** - a tree bending in response to the wind
@@ -22,7 +22,7 @@ There are fundamentally just **two** ways - **mechanisms** for resilience - for 
 - **Constraints**: component, system, protocol, emergent
 - **Redundancy** - approach to building robustness by including extra components
 
-**Complexity** arises in highly evolved biological and technological systems primarily to provide **mechanism** to create **robustness**.
+**Complexity** arises in highly evolved biological and technological systems primarily to provide **mechanism to create robustness**.
 
 The connection between advanced technology and biology is neither superficial nor accidental, and much can be learned from comparing and contrasting the organizational principles underlying complex biological and technological systems.
 
@@ -30,9 +30,9 @@ The universal system requirements to be efficient, adaptive, evolvable, and robu
 
 A system can have a property that is robust to one set of perturbations and yet fragile for [a different property] and/or perturbation.
 
-Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems **arises** primarily from design strategies intended **to create robustness**.
+Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems **arises** primarily from design strategies intended to **create robustness**.
 
-Building functional **redundancy** of critical components or subsystems is a popular and well-studied **approach** to **robustness**, but redundancy per se is a limited and blunt **tool**.
+Building functional **redundancy** of critical components or subsystems is a popular and well-studied **approach to robustness**, but redundancy per se is a limited and blunt **tool**.
 
 
 
