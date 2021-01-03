@@ -6,11 +6,11 @@
 *****
 
 ### False Equivalence
-Logical fallacy in which an equivalence is drawn between two subjects based on flawed or false reasoning. This fallacy is categorized as a fallacy of inconsistency. AKA "comparing apples and oranges".
+Logical fallacy in which an equivalence is drawn between two subjects based on flawed or false reasoning. This fallacy is categorized as a fallacy of inconsistency. AKA *comparing apples and oranges*.
 
 
 ### Argument from Nature Fallacy  
-Logical fallacy occurring when someone argues that something is good because it is 'natural' and something else is bad because it is not 'natural'. The flaw with this line of thinking is the fact that whether something is 'natural' or 'unnatural' is completely irrelevant to whether or not it is good. Arsenic is natural. Cyanide is natural. Bubonic plague is natural.
+Logical fallacy occurring when someone argues that something is good because it is *natural* and something else is bad because it is not *natural*. The flaw with this line of thinking is the fact that whether something is 'natural' or 'unnatural' is completely irrelevant to whether or not it is good. Arsenic is natural. Cyanide is natural. Bubonic plague is natural.
 
 
 ### Infinite Monkey Theorem  
@@ -66,7 +66,7 @@ It always takes longer than you expect, even when you take into account Hofstadt
 
 
 ### Parkinson's Law  
-The adage that "work expands so as to fill the time available for its completion".
+The adage that *"work expands so as to fill the time available for its completion"*.
 
 
 ### Hype Cycle  
@@ -106,11 +106,11 @@ Justifying increased investment in a decision, based on the cumulative prior inv
 
 
 ### Peter Principle  
-A concept in management theory formulated by Laurence J. Peter in which the selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and "managers rise to the level of their incompetence."  
+A concept in management theory formulated by Laurence J. Peter in which the selection of a candidate for a position is based on the candidate's performance in their current role, rather than on abilities relevant to the intended role. Thus, employees only stop being promoted once they can no longer perform effectively, and *"managers rise to the level of their incompetence.*"  
 
-In an organizational structure, assessing an employee's potential for a promotion is often based on their performance in the current job. This eventually results in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their "level of incompetence".  
+In an organizational structure, assessing an employee's potential for a promotion is often based on their performance in the current job. This eventually results in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their *level of incompetence*.  
 
-Peter suggests that "In time, every post tends to be occupied by an employee who is incompetent to carry out its duties" and [the corollary] that "work is accomplished by those employees who have not yet reached their level of incompetence."
+Peter suggests that *"In time, every post tends to be occupied by an employee who is incompetent to carry out its duties" and [the corollary] that "work is accomplished by those employees who have not yet reached their level of incompetence.*"
 
 
 ### Ordering of Adjectives  
