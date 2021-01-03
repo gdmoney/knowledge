@@ -110,7 +110,7 @@ A concept in management theory formulated by Laurence J. Peter in which the sele
 
 In an organizational structure, assessing an employee's potential for a promotion is often based on their performance in the current job. This eventually results in their being promoted to their highest level of competence and potentially then to a role in which they are not competent, referred to as their *level of incompetence*.  
 
-Peter suggests that *"In time, every post tends to be occupied by an employee who is incompetent to carry out its duties" and [the corollary] that "work is accomplished by those employees who have not yet reached their level of incompetence.*"
+Peter suggests that *"In time, every post tends to be occupied by an employee who is incompetent to carry out its duties"* and [the corollary] that *"work is accomplished by those employees who have not yet reached their level of incompetence.*"
 
 
 ### Ordering of Adjectives  
