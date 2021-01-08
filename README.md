@@ -31,6 +31,10 @@ A situation in which a majority of group members privately reject a norm, but go
 Belief that one’s private thoughts are different from those of others.
 
 
+### Identity Politics
+Type of tribalism prioritizing and highlighting concerns of a group based on racial, gender, religious, etc. identity without regard to broader interest.
+
+
 ### Gall's Law (John Gall)  
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
 

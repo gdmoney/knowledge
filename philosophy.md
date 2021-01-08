@@ -97,7 +97,3 @@ The concept originates in **Robin Hanson**'s argument that the failure to find a
 In the broad sense is any belief held unquestioningly and with undefended certainty. It may be in the form of an official system of principles or doctrines of a religion, as well as the positions of a philosopher or of a philosophical school.
 
 More generally, it is applied to some strong belief which its adherents are not willing to discuss rationally. This attitude is named as a dogmatic one, or as dogmatism; and is often used to refer to matters related to religion, but is not limited to theistic attitudes alone and is often used with respect to political or philosophical dogmas.
-
-
-### Identity Politics
-Type of tribalism prioritizing and highlighting concerns of a group based on racial, gender, religious, etc. identity without regard to broader interest.
