@@ -52,6 +52,8 @@ The doctrine that all events, including human action, are ultimately determined 
 ### Ontology
 The philosophical study of being. More broadly, it studies concepts that directly relate to being, in particular becoming, existence, reality, as well as the basic categories of being and their relations.
 
+Ontology is the theory of objects and their ties. It provides criteria for distinguishing different types of objects (concrete and abstract, existent and nonexistent, real and ideal, independent and dependent) and their ties (relations, dependencies and predication).
+
 
 ### Epistemology
 The theory of knowledge, especially with regard to its methods, validity, and scope. Epistemology is the investigation of what distinguishes justified belief from opinion.
