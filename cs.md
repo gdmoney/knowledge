@@ -23,6 +23,6 @@ No distributed system is safe from network failures, thus network partitioning g
 
 
 ### ACID (Atomicity, Consistency, Isolation, Durability)
-A set of properties of database transactions intended to guarantee data validity despite errors, power failures, and other mishaps. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. For example, a transfer of funds from one bank account to another, even involving multiple changes such as debiting one account and crediting another, is a single transaction.
+A set of *properties* of database transactions intended to guarantee *data validity* despite errors, power failures, and other mishaps. In the context of databases, a sequence of database operations that satisfies the ACID properties (which can be perceived as a single logical operation on the data) is called a transaction. For example, a transfer of funds from one bank account to another, even involving multiple changes such as debiting one account and crediting another, is a single transaction.
 
 Used to implement a strictly consistent state.
