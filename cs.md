@@ -2,25 +2,13 @@
 
 
 ### CS Trade-offs
-- **Look** vs **Leap**
-  - optimal stopping problem / secretary problem
-
-- **Explore** vs **Exploit**
-  - multi-armed bandit problem
-
+- **Look** vs **Leap** - optimal stopping problem / secretary problem
+- **Explore** vs **Exploit** - multi-armed bandit problem
 - **Sort** vs **Search**
-
-- **Size** vs **Speed**
-  - small and fast or big and slow
-
-- **Speed** vs **Accuracy**
-  - slow and accurate/robust or fast and error prone/fragile
-
-- **Responsiveness** vs **Throughput**
-  - cost is delay
-
+- **Size** vs **Speed** - small and fast or big and slow
+- **Speed** vs **Accuracy** - slow and accurate/robust or fast and error prone/fragile
+- **Responsiveness** vs **Throughput** - cost is delay
 - **Time** and **Space** vs **Certainty**
-
 
 ### CAP Theorem
 It is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees:
