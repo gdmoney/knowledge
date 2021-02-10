@@ -12,7 +12,6 @@ There are fundamentally just **two** ways - **mechanisms** for resilience - for 
 **Adapt** - a tree bending in response to the wind
 
 
-
 ### [Complexity](https://faculty.nps.edu/dlalders/docs/AldersonDoyle-tsmca-July2010.pdf)
 - **Reliability** - robustness to component failures
 - **Efficiency** - robustness to resource scarcity
@@ -33,7 +32,6 @@ A system can have a property that is robust to one set of perturbations and yet 
 Complexity is most succinctly discussed in terms of functionality and its robustness. Specifically, we argue that **complexity** in highly organized systems **arises** primarily from design strategies intended to **create robustness**.
 
 Building functional **redundancy** of critical components or subsystems is a popular and well-studied **approach to robustness**, but redundancy per se is a limited and blunt **tool**.
-
 
 
 ### [How To Spot Bad Science](https://fs.blog/2020/01/spot-bad-science/)
