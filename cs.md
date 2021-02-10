@@ -10,6 +10,7 @@
 - **Responsiveness** vs **Throughput** - cost is delay
 - **Time** and **Space** vs **Certainty**
 
+
 ### CAP Theorem
 It is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees:  
 - **Consistency**: every read receives the most recent write or an error  
