@@ -5,6 +5,14 @@
 
 *****
 
+### Identifiable Victim Effect
+Tendency of individuals to offer greater aid when a specific, identifiable person ("victim") is observed under hardship, as compared to a large, vaguely defined group with the same need. The effect is also observed when subjects administer punishment rather than reward. Research has shown that individuals can be more likely to mete out punishment, even at their own expense, when they are punishing specific, identifiable individuals.
+
+
+### Peak–end Rule
+A psychological heuristic in which people judge an experience largely based on how they felt at its peak (i.e., its most intense point) and at its end, rather than based on the total sum or average of every moment of the experience. The effect occurs regardless of whether the experience is pleasant or unpleasant.
+
+
 ### False Equivalence
 Logical fallacy in which an equivalence is drawn between two subjects based on flawed or false reasoning. This fallacy is categorized as a fallacy of inconsistency. AKA *comparing apples and oranges*.
 
