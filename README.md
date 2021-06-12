@@ -5,6 +5,18 @@
 
 *****
 
+### Blame Externalization
+Inability to take responsibility for one's actions, instead blaming others or rationalizing one's behavior.
+
+
+### St George in Retirement Syndrome
+St George killed the dragon but wasn’t satisfied. He was convinced that there were still more dragons around every corner to slay and kept on looking for dragons that didn’t exist. He searched everywhere and started killing smaller and smaller creatures until eventually he was swinging his sword at clean air like a crazy person.
+
+
+### Martyr complex
+In psychology a person who has a martyr complex, sometimes associated with the term "victim complex", desires the feeling of being a martyr for their own sake, seeking out suffering or persecution because it either feeds a psychical need or a desire to avoid responsibility.
+
+
 ### Identifiable Victim Effect
 Tendency of individuals to offer greater aid when a specific, identifiable person ("victim") is observed under hardship, as compared to a large, vaguely defined group with the same need. The effect is also observed when subjects administer punishment rather than reward. Research has shown that individuals can be more likely to mete out punishment, even at their own expense, when they are punishing specific, identifiable individuals.
 
