@@ -2,7 +2,6 @@
 
 *****
 **[Science](/science.md) • [Computer Science](/cs.md) • [Math](/math.md) • [Philosophy](/philosophy.md)**
-
 *****
 
 ### Blame Externalization
