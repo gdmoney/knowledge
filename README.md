@@ -17,7 +17,7 @@ Inability to take responsibility for one's actions, instead blaming others or ra
 St. George killed the dragon but wasn’t satisfied. He was convinced that there were still more dragons around every corner to slay and kept on looking for dragons that didn’t exist. He searched everywhere and started killing smaller and smaller creatures until eventually he was swinging his sword at clean air like a crazy person.
 
 
-### Martyr complex
+### Martyr Complex
 In psychology a person who has a martyr complex, sometimes associated with the term "victim complex", desires the feeling of being a martyr for their own sake, seeking out suffering or persecution because it either feeds a psychical need or a desire to avoid responsibility.
 
 
