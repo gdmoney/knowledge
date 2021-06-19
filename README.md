@@ -5,6 +5,10 @@
 
 *****
 
+### Genetic Fallacy
+A fallacy of irrelevance that is based solely on someone's or something's history, origin, or source rather than its current meaning or context. It fails to assess the claim on its merit. 
+
+
 ### Blame Externalization
 Inability to take responsibility for one's actions, instead blaming others or rationalizing one's behavior.
 
