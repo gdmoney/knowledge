@@ -13,8 +13,8 @@ A fallacy of irrelevance that is based solely on someone's or something's histor
 Inability to take responsibility for one's actions, instead blaming others or rationalizing one's behavior.
 
 
-### St George in Retirement Syndrome
-St George killed the dragon but wasn’t satisfied. He was convinced that there were still more dragons around every corner to slay and kept on looking for dragons that didn’t exist. He searched everywhere and started killing smaller and smaller creatures until eventually he was swinging his sword at clean air like a crazy person.
+### St. George in Retirement Syndrome
+St. George killed the dragon but wasn’t satisfied. He was convinced that there were still more dragons around every corner to slay and kept on looking for dragons that didn’t exist. He searched everywhere and started killing smaller and smaller creatures until eventually he was swinging his sword at clean air like a crazy person.
 
 
 ### Martyr complex
