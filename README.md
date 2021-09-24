@@ -5,6 +5,10 @@
 
 *****
 
+### Groupthink
+A psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. Cohesiveness, or the desire for cohesiveness, in a group may produce a tendency among its members to agree at all costs. This causes the group to minimize conflict and reach a consensus decision without critical evaluation.
+
+
 ### Genetic Fallacy
 A fallacy of irrelevance that is based solely on someone's or something's history, origin, or source rather than its current meaning or context. It fails to assess the claim on its merit. 
 
