@@ -133,7 +133,7 @@ Two prisoners stole $1 million and are being questioned. If neither snitches, th
 People's tendency to strongly prefer avoiding losses to acquiring gains.
 
 
-### Throwing Good Money After Bad / Sunk Cost Fallacy  
+### Sunk Cost Fallacy (Throwing good money after bad)
 Justifying increased investment in a decision, based on the cumulative prior investment, despite new evidence suggesting that the cost, starting today, of continuing the decision outweighs the expected benefit.
 
 
