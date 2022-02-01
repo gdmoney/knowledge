@@ -5,6 +5,12 @@
 
 *****
 
+### Hedonic Treadmill
+The observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
+
+Hedonic adaptation is a process or mechanism that reduces the affective impact of emotional events. Generally, hedonic adaptation involves a happiness "set point", whereby humans generally maintain a constant level of happiness throughout their lives, despite events that occur in their environment. The process of hedonic adaptation is often conceptualized as a treadmill, since no matter how hard one tries to gain an increase in happiness, one will remain in the same place.
+
+
 ### Groupthink
 A psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity in the group results in an irrational or dysfunctional decision-making outcome. Cohesiveness, or the desire for cohesiveness, in a group may produce a tendency among its members to agree at all costs. This causes the group to minimize conflict and reach a consensus decision without critical evaluation.
 
