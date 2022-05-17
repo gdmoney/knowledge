@@ -25,7 +25,7 @@ There are fundamentally just **two** ways - **mechanisms** for resilience - for 
 
 The connection between advanced technology and biology is neither superficial nor accidental, and much can be learned from comparing and contrasting the organizational principles underlying complex biological and technological systems.
 
-The universal system requirements to be efficient, adaptive, evolvable, and robust to perturbations in their environment and component parts.
+*The universal system requirements to be efficient, adaptive, evolvable, and robust to perturbations in their environment and component parts.*
 
 A system can have a property that is robust to one set of perturbations and yet fragile for [a different property] and/or perturbation.
 
