@@ -5,6 +5,10 @@
 
 *****
 
+### ESSA - Eliminate, Simplify, Standardize, Automate
+Approach to improving productivity.
+
+
 ### Hedonic Treadmill
 The observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes. According to this theory, as a person makes more money, expectations and desires rise in tandem, which results in no permanent gain in happiness.
 
