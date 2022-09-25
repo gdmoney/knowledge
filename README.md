@@ -5,6 +5,10 @@
 
 *****
 
+### Present Bias
+Tendency to rather settle for a smaller present reward than to wait for a larger future reward, in a trade-off situation. It describes the trend of overvaluing immediate rewards, while putting less worth in long-term consequences. The present bias can be used as a measure for self-control, which is a trait related to the prediction of secure life outcomes.
+
+
 ### ESSA - Eliminate, Simplify, Standardize, Automate
 Approach to improving productivity.
 
