@@ -1,6 +1,10 @@
 ## Philosophy
 
 
+### Value Pluralism
+In ethics, value pluralism is the idea that there are several values which may be equally correct and fundamental, and yet in conflict with each other. In addition, value-pluralism postulates that in many cases, such incompatible values may be incommensurable, in the sense that there is no objective ordering of them in terms of importance. Value pluralism is opposed to value monism. Value-pluralism is an alternative to both **moral relativism** and **moral absolutism**.
+
+
 ### Ethics / Moral Philosophy
 A branch of philosophy that *"involves systematizing, defending, and recommending concepts of right and wrong behavior"*. The field of ethics, along with aesthetics, concerns matters of value, and thus comprises the branch of philosophy called **axiology**.
 
