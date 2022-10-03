@@ -1,7 +1,7 @@
 ### Concepts, ideas, math, science, and philosophy.
 
 *****
-**[Science](/science.md) • [Computer Science](/cs.md) • [Math](/math.md) • [Philosophy](/philosophy.md)**  
+**[Computer Science](/cs.md) • [Math](/math.md) • [Philosophy](/philosophy.md) • [Science](/science.md) • [Vocabulary](/vocabulary.md)**  
 
 *****
 
