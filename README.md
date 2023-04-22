@@ -5,6 +5,10 @@
 
 *****
 
+### Overton Window
+The range of policies politically acceptable to the mainstream population at a given time. It says politicians can act only within the acceptable range. Political commentator Joshua Treviño has postulated that the six degrees of acceptance of public ideas are roughly: Unthinkable, Radical, Acceptable, Sensible, Popular, Policy.
+
+
 ### Present Bias
 Tendency to rather settle for a smaller present reward than to wait for a larger future reward, in a trade-off situation. It describes the trend of overvaluing immediate rewards, while putting less worth in long-term consequences. The present bias can be used as a measure for self-control, which is a trait related to the prediction of secure life outcomes.
 
@@ -24,7 +28,7 @@ A psychological phenomenon that occurs within a group of people in which the des
 
 
 ### Genetic Fallacy
-A fallacy of irrelevance that is based solely on someone's or something's history, origin, or source rather than its current meaning or context. It fails to assess the claim on its merit. 
+A fallacy of irrelevance that is based solely on someone's or something's history, origin, or source rather than its current meaning or context. It fails to assess the claim on its merit.
 
 
 ### Blame Externalization
