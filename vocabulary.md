@@ -16,6 +16,7 @@
 - `confabulate   ` - fabricate imaginary experiences as compensation for loss of memory
 - `countenance   ` - a person's face or facial expression; support
 - `conflate      ` - combine two or more ideas into one
+- `deleterious   ` - causing harm or damage
 - `demur         ` - raise doubts or objections or show reluctance
 - `denigrate     ` - criticize unfairly; disparage
 - `diaphanous    ` - light, delicate, and translucent
