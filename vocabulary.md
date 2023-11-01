@@ -29,6 +29,7 @@
 - `espouse       ` - adopt or support a cause, belief, or way of life
 - `evanescent    ` - soon passing out of sight, memory, or existence; quickly fading or disappearing
 - `fatuous       ` - silly and pointless
+- `gossamer      ` - something very light, thin, and insubstantial or delicate
 - `iconoclastic  ` - characterized by attack on cherished beliefs or institutions
 - `impertinent   ` - not showing proper respect; rude, insolent
 - `incandescent  ` - full of strong emotion; passionate
