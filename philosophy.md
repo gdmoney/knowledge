@@ -1,6 +1,10 @@
 ## Philosophy
 
 
+### Liberalism
+Liberalism is a political and moral philosophy based on the rights of the individual, liberty, consent of the governed, political equality, right to private property and equality before the law. Liberals espouse various and often mutually warring views depending on their understanding of these principles but generally support private property, market economies, individual rights (including civil rights and human rights), liberal democracy, secularism, rule of law, economic and political freedom, freedom of speech, freedom of the press, freedom of assembly, and freedom of religion, constitutional government and privacy rights. Liberalism is frequently cited as the dominant ideology of modern history.
+
+
 ### Value Pluralism
 In ethics, value pluralism is the idea that there are several values which may be equally correct and fundamental, and yet in conflict with each other. In addition, value-pluralism postulates that in many cases, such incompatible values may be incommensurable, in the sense that there is no objective ordering of them in terms of importance. Value pluralism is opposed to value monism. Value-pluralism is an alternative to both **moral relativism** and **moral absolutism**.
 
