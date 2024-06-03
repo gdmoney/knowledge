@@ -1,7 +1,7 @@
 ## Science
 
 
-### [Resilience & Robustness](https://www.systemsinnovation.io/post/robustness-resilience)
+### Resilience & Robustness
 **Resilience** is the **capacity** of a system to **maintain functionality** in the face of some **alteration** within the system’s **environment**. All systems exist within an environment and are, to a certain extent, dependent upon a specific range of input values from that environment. The system has a set of **parameters** to these inputs within which it can **maintain** its structure and **functionality**, but outside of these critical parameters the system will become **degraded** to a lower level of integration or functionality.
 
 **Resilience** and **robustness** can then be defined by this set of **parameters**. The lower the system’s dependency upon its environment and the **broader this range of input** **values** that the system can operate within, the **more robust** it can be said to be.
