@@ -2,7 +2,6 @@
 
 
 - `abstemious    ` - not self-indulgent, especially when eating and drinking
-- `admonishment  ` - a firm warning or reprimand
 - `affectation   ` - behavior, speech, or writing that is artificial and designed to impress
 - `ameliorate    ` - make something bad or unsatisfactory better; improve
 - `anathema      ` - something or someone that one vehemently dislikes
