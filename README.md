@@ -1,4 +1,4 @@
-### Concepts, ideas, math, science, and philosophy.
+## Concepts, ideas, math, science, and philosophy.
 
 *****
 **[Computer Science](/cs.md) • [Math](/math.md) • [Philosophy](/philosophy.md) • [Science](/science.md) • [Vocabulary](/vocabulary.md)**  
