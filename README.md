@@ -5,6 +5,10 @@
 
 *****
 
+### Amara's Law
+We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+
+
 ### Overton Window
 The range of policies politically acceptable to the mainstream population at a given time. It says politicians can act only within the acceptable range. Political commentator Joshua Treviño has postulated that the six degrees of acceptance of public ideas are roughly: Unthinkable, Radical, Acceptable, Sensible, Popular, Policy.
 
