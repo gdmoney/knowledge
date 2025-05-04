@@ -33,6 +33,7 @@
 - `impertinent   ` - not showing proper respect; rude, insolent
 - `incandescent  ` - full of strong emotion; passionate
 - `incongruous   ` - not in harmony or keeping with the surrounding or other aspects of something; out of place
+- `indelible     ` - lasting, memorable
 - `inscrutable   ` - impossible to understand or interpret
 - `invidious     ` - (of an action or situation) to arouse or incur resentment or anger in others
 - `mendacity     ` - untruthfulness
